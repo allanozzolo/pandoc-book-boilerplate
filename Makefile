@@ -2,7 +2,7 @@ output=output
 src=src
 img=${src}/img
 
-titlebook="titlebook"
+titlebook=Dungeon_World_BoilerPlate_ITA
 toc=--toc --toc-depth=2
 
 all: clean epub
